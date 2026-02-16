@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "歌姫",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-16T12:07:50.941664Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "SunSet Swish",
+      "has_synced": false,
+      "path": "select/01_歌姫_SunSet_Swish.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/02_歌姫_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "SID",
+      "has_synced": false,
+      "path": "select/03_歌姫_SID.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/04_歌姫_シド.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/05_歌姫_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/06_歌姫_aiko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "歌姫",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/07_歌姫_女王蜂.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歌姫",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_歌姫_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
